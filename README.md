@@ -15,23 +15,10 @@ A clean, responsive, and dynamic products page built with HTML, CSS, and JavaScr
 HTML5 | CSS3 | JavaScript (Vanilla)
 
 
-📁 Project Structure
-pgsql
-Copy
-Edit
-📦 products-page
- ├── index.html
- ├── details.html
- ├── script.js
- └── README.md
-
-
 📌 How to Use
 Live demo: https://productpageusingfakeapi.netlify.app/
 
 
 🙋‍♂️ Author
-Made with ❤️ by Sanjana
+Done by Linu priyanth
 
-📜 License
-This project is open-source under the MIT License.
